@@ -36,5 +36,6 @@ plotly | Visualizations
 passlib | Password hashing
 
 Note: For GPU acceleration, consider installing CUDA-compatible versions of PyTorch (ask ChatGPT).
+      Past this files into folder that you download from 1cloudfile.com
 
 Known Limitations: Twilio SMS notifications are currently non-functional
